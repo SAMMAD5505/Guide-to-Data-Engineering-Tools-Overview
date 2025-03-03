@@ -2,6 +2,9 @@
 
 Data engineering is the backbone of modern data-driven applications. It involves the collection, storage, processing, and analysis of data at scale. To achieve this, data engineers rely on a variety of tools and technologies. In this article, we will explore some of the most popular data engineering tools, including Apache Kafka, Spark, Flink, Storm, Flume, AWS Kinesis, SQS/SNS, Azure Event Hub, HDInsight, Synapse, Google Pub/Sub, and BigQuery. We will cover their definitions, architectures, guarantees, use cases, real-time examples, drawbacks, and alternative technologies. Additionally, we will delve into delivery semantics, processing semantics, and how to handle duplicates.
 
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/290cfaec-e188-4d7c-add9-ae5c297e9366" />
+
+
 
 ## 1. Apache Kafka
 
